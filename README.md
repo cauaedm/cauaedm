@@ -13,3 +13,4 @@ Esse projeto consiste-se em uma análise do mercado de produção agrícola da c
 ## [Análise Exploratória de Dados - Supermarket user history](https://github.com/cauaedm/supermarket_history_analysis):
 
 Esse projeto consiste em uma exploração dos dados, passando pelo tratamento de algumas variáveis, compreendendo seus funcionamentos e levantando hipóteses.
+![img](image.png)
