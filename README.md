@@ -10,6 +10,6 @@ Esse projeto consiste-se em uma análise do mercado de produção agrícola da c
 
 ![serie_temporal](time_series_plot.png)
 
-## [Análise de Cotações da Pinha]([https://github.com/cauaedm/supermarket_history_analysis](https://github.com/cauaedm/pinha-analise/blob/main/README.md)):
+## [Análise de Cotações da Pinh]([[https://github.com/cauaedm/supermarket_history_analysis](https://github.com/cauaedm/pinha-analise/blob/main/README.md](https://github.com/cauaedm/pinha-analise))):
 
 Este projeto envolve a coleta de dados sobre as cotações da pinha, também conhecida como fruta do conde em algumas regiões, no estado da Bahia, utilizando técnicas de web scraping. Os dados foram extraídos de PDFs disponibilizados pelo CEASA da Bahia, que é uma fonte importante de informações sobre o mercado agrícola regional. A Bahia, como maior produtor nacional dessa fruta, oferece uma perspectiva valiosa para entender as variações de preços ao longo do tempo. Essa coleta de dados servirá como base para análises futuras, que explorarão as tendências de mercado, os fatores que influenciam as cotações e o impacto econômico da produção de pinha na região.
