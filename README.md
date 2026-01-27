@@ -1,6 +1,6 @@
 # Cauã 👋
 
-Hi — I'm Cauã, an AI Developer who loves time series and building practical, well-engineered tools.
+Hi — I'm Cauã, an AI Developer at Crivo Ventures.
 
 - AI Developer at a venture capital fund — [cauaedm/vc-news-agent](https://github.com/cauaedm/vc-news-agent)  
 - Vibecoding (private repo — I use it for experiments and can share screenshots on request)  
