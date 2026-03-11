@@ -20,12 +20,3 @@ Hi — I'm Cauã, an AI Developer at Crivo Ventures.
 
 - Time Series Forecasting — cauaedm/time_series_forecasting  
   Applied time-series analysis (example: onion price series). Contains data collection (web scraping in `dados/scrap.py`), cleaning and imputation (KNNImputer), exploratory/statistical analysis and handmade implementations of tests (Cox–Stuart for trend, Kruskal–Wallis for seasonality). Stack: Python, pandas, numpy, scipy, scikit-learn, BeautifulSoup, matplotlib. The README includes step-by-step analysis and code snippets to reproduce the results.
-
-## Want me to update your profile README?
-I can:
-- Replace your current profile README with this English version (I can commit it for you).  
-- Expand each project entry with badges, screenshots, and "How to run" sections.  
-- Produce a polished English + Portuguese bilingual README.  
-- Add short project highlights (2–3 bullets each) or a "Projects in focus" section with images.
-
-What I did: I reviewed the three repositories you pointed to (read their READMEs and key files) and translated & condensed the project descriptions into this English README. Tell me which option you prefer and I’ll prepare the final version (and can push it if you want).
