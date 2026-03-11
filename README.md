@@ -3,7 +3,7 @@
 Hi — I'm Cauã, an AI Developer at Crivo Ventures.
 
 - AI Developer at a venture capital fund — [cauaedm/vc-news-agent](https://github.com/cauaedm/vc-news-agent)  
-- Vibecoding (private repo — I use it for experiments and can share screenshots on request)  
+- Vibecoding - Building a end-to-end data-driven company in a Venture Capital Fund with Antigravity
 - Consulting experience — [cauaedm/rizz-izaz](https://github.com/cauaedm/rizz-izaz)  
 - Time series lover — [cauaedm/time_series_forecasting](https://github.com/cauaedm/time_series_forecasting)
 
