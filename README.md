@@ -1,22 +1,27 @@
-# Cauã 👋
+# Cauã
 
-Hi — I'm Cauã, an AI Developer at Crivo Ventures.
+I am an AI Developer and Data Intern at Crivo Ventures, currently studying Computer Science at UFRJ (7th period). 
 
-- AI Developer at a venture capital fund — [cauaedm/vc-news-agent](https://github.com/cauaedm/vc-news-agent)  
-- Vibecoding - Building a end-to-end data-driven company in a Venture Capital Fund with Antigravity
-- Consulting experience — [cauaedm/rizz-izaz](https://github.com/cauaedm/rizz-izaz)  
-- Time series lover — [cauaedm/time_series_forecasting](https://github.com/cauaedm/time_series_forecasting)
+My absolute focus and daily dedication lie in AI Engineering. My work consists of architecting intelligent systems, resilient data infrastructures, and applications driven by autonomous agents. The Venture Capital ecosystem acts as my essential side-quest: I study investment theses, business models, and market trends to provide real, strategic context for the complex tools I build.
 
-## Project summaries
+## What I am building at Crivo Ventures
 
-- VC News Agent — cauaedm/vc-news-agent  
-  A lightweight data pipeline for venture-capital intelligence. The agent collects candidate links (Tavily), performs deep page reads with Crawl4AI, applies LLM-based relevance filtering, generates a Markdown newsletter via an LLM (gpt-4o-mini), and sends the briefing with Resend. Orchestration is done with GitHub Actions (scheduled Mon–Fri). Main stack: Python, asyncio, Crawl4AI, OpenAI, Tavily, Resend, GitHub Actions. Quick start: `pip install -r requirements.txt`, add secrets to `.env` (OPENAI_API_KEY, TAVILY_API_KEY, RESEND_API_KEY) and run `python src/main.py`. See `docs/FLOW.md` for the architecture and `src/main.py` for pipeline logic.
+In my day-to-day, I build the bridges between structured data and language models to optimize dealflow and the fund's operational efficiency. My main architectural and coding fronts are:
 
-- Vibecoding (private)  
-  A collection of creative experiments, quick prototypes and visual demos. Kept private for now, but I can add screenshots or selected excerpts if you want them surfaced in the public profile.
+### Crivo DataLake: The Foundation
+Responsible for centralizing the fund's intelligence. I lead the architectural decisions and implement a unified Data Lake, developing ingestion scripts and structuring DAG architectures to orchestrate data flows. This infrastructure integrates sources like Airtable and OneDrive, running almost entirely on the Cloudflare ecosystem (Workers, R2, D1, KV, and Pages).
 
-- Rizz‑Izaz — cauaedm/rizz-izaz  
-  A Streamlit dashboard for social listening and sentiment analytics (Twitter). Includes a Tweepy-based scraper with configurable query builders (synonym groups), a batch sentiment pipeline that uses Google Gemini (with exponential backoff on rate limits), and visualizations built with Plotly and Altair. Good for consulting projects that need quick insights and reports. Quick start: add your API keys to `config.ini`, ensure the data CSV is available (or run the scraper), then `streamlit run app.py`.
+### Crivo MCP (Model Context Protocol): The Nervous System
+Development of MCP servers and proprietary tools. This layer ensures that Artificial Intelligence has secure, highly contextualized, and real-time access to the firm's internal Venture Capital documents and data, eliminating friction in information retrieval.
 
-- Time Series Forecasting — cauaedm/time_series_forecasting  
-  Applied time-series analysis (example: onion price series). Contains data collection (web scraping in `dados/scrap.py`), cleaning and imputation (KNNImputer), exploratory/statistical analysis and handmade implementations of tests (Cox–Stuart for trend, Kruskal–Wallis for seasonality). Stack: Python, pandas, numpy, scipy, scikit-learn, BeautifulSoup, matplotlib. The README includes step-by-step analysis and code snippets to reproduce the results.
+### Crivo Agent: The Command Center
+A consolidated platform that merges data infrastructure and AI into a single interface. To make this work, I build multi-agent workflows using LangGraph and CrewAI, backed by beeing close to the business pipelines. The goal is to automate critical tasks, generating a massive productivity boost and delivering rapid insights for startup validation.
+
+## Tech Stack
+
+* **AI Engineering & Multi-Agent Systems:** Model Context Protocol (MCP), RAG, LangGraph, CrewAI.
+* **Data Infrastructure & Cloud:** Cloudflare Ecosystem (Workers, R2, D1, KV, Pages) and data orchestration via DAGs.
+* **The Strategic Side-Quest:** Venture Capital, business model analysis, and mapping technological trends.
+
+---
+**Contact & Connections:** [Your LinkedIn] | [Your Email]
